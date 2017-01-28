@@ -23,7 +23,7 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "http://www.urbanjunglestore.com/it/rss/catalog/special/store_id/1/cid/0/"
+        "http://www.urbanjunglestore.com/it/rss/catalog/special/store_id.xml"
         
     ],
     "keywords": [
